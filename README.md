@@ -1,6 +1,8 @@
-# login_signup
+# Login_Signup
 
-A new Flutter application.
+A Login/Signup UI design based on Flutter
+
+#### Inspired from : https://dribbble.com/shots/6371155-Sign-in-Sign-up-UI
 
 ## Getting Started
 
